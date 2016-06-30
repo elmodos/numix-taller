@@ -1,12 +1,10 @@
 /* XPM */
-static char *right-active_xpm[] = {
+static char *right_active_xpm[] = {
 /* width height num_colors chars_per_pixel */
-"     1    32        4            1",
+"     1    32        2            1",
 /* colors */
-"` c None",
-". c #484848",
-"# c #2d2d2d",
-"a c #2d2d2d",
+" 	c None",
+".	c #484848",
 /* pixels */
 ".",
 ".",

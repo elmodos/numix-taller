@@ -1,9 +1,9 @@
 /* XPM */
-static char * stick_toggled_pressed_xpm[] = {
+static char * stick_toggled_prelight_xpm[] = {
 "36 36 3 1",
 " 	c None",
-".	c #2D2D2D",
-"+	c #D64937",
+".	c #444444",
+"+	c #f0544c s active_color_1",
 "....................................",
 "....................................",
 "....................................",
